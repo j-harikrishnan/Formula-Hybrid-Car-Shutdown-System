@@ -1,0 +1,2 @@
+# Formula-Hybrid-Car-Shutdown-System
+The Formula Hybrid Competition is an interdisciplinary design and engineering challenge for undergraduate and graduate university students. They must collaboratively design and build a formula-style electric or plug-in hybrid racecar and compete in a series of events. This educational competition emphasizes drivetrain innovation and fuel efficiency in a high-performance application. This year, in the 2017 Formula Hybrid event students from Amrita University made their appearance. 
